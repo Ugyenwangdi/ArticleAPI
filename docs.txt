@@ -1,0 +1,7 @@
+Part 2: Django API using Django Rest Framework GenericAPIView
+
+
+https://medium.com/the-andela-way/creating-a-djangorest-api-using-djangorestframework-part-2-1231fe949795
+
+Virtual environment
+
